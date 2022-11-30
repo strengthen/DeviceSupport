@@ -5,17 +5,26 @@
 ## 2、下载上面库中列出的您需要的版本，解压版本文件为文件夹。
 ## 3、打开【访达】，输入快捷键：【Command + Shift + G】，输入文件夹位置：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport ，其中【Xcode.app】为Xcode名称，如果下载多个Xcode，则输入对应Xcode的名称，将解压的的文件夹放入DeviceSupport文件夹。
 ## 4、重新启动Xcode。
-## 自己研发自己推广，几个无广告的App。欢迎点击跳转App Store安装。
+
+## 自己研发自己推广。欢迎点击跳转App Store安装。
 ### 一、iPhone/iPad端安装
 >[1、iTelevision （更好用的直播流播放器/手机电视）](https://apps.apple.com/cn/app/itelevision/id6443470500)
+> iTelevision群：[https://t.me/iTelevisions](https://t.me/iTelevisions)
 
 >[2、iNFC （读写NFC标签，复制门禁卡）](https://apps.apple.com/cn/app/infc/id1562054959)
+> iNFC群：[https://t.me/NFCMaster](https://t.me/NFCMaster)
 
 >[3、iSMS （AI离线智能拦截垃圾短信）](https://apps.apple.com/cn/app/isms/id1610118657)
+> iSMS群：[https://t.me/iSMS_iContact](https://t.me/iSMS_iContact)
 
 >[4、iDraft (电子绘图、电子草稿)](https://apps.apple.com/cn/app/idraft/id1555981466)
+> iDraft群：[https://t.me/iDrafts](https://t.me/iDrafts)
 
 >[5、iBlog （博客园客户端，开发者的网上家园）](https://apps.apple.com/cn/app/iblog/id1571216825)
+> iBlog群：[https://t.me/iCnblog](https://t.me/iCnblog)
+
+>[6、iNetwork](https://t.me/iNetworka)
+> iNetwork群：[https://t.me/iNetworka](https://t.me/iNetworka)
 ### 二、iMac、MacBook等安装：
 >[1、iSpider （复原windows端的蜘蛛纸牌）](https://apps.apple.com/cn/app/spider-card/id1579985010?mt=12)
 
