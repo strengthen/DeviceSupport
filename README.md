@@ -1,4 +1,4 @@
-# 运行Xcode时出现：
+# 一、运行Xcode时出现：
 ### This operation can fail if the version of the OS on the device is incompatible with the installed version of Xcode. You may also need to restart your mac and device in order to correctly detect compatibility.
 ### This xxx is running iOS xxx, which may not be supported by this version of Xcode.
 ## 1、点击下载指定的iOS系统支持文件：https://github.com/strengthen/DeviceSupport
@@ -6,7 +6,7 @@
 ## 3、打开【访达】，输入快捷键：【Command + Shift + G】，输入文件夹位置：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport ，其中【Xcode.app】为Xcode名称，如果下载多个Xcode，则输入对应Xcode的名称，将解压的的文件夹放入DeviceSupport文件夹。
 ## 4、重新启动Xcode。
 
-## 欢迎从App Store下载：iNFC
+# 二、欢迎从App Store下载：iNFC
 > [https://apps.apple.com/cn/app/infc/id1562054959](https://apps.apple.com/cn/app/infc/id1562054959)
 ## 1、iNFC官方店铺：
 > [https://shop186988287.taobao.com/](https://shop186988287.taobao.com/)
