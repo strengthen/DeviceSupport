@@ -1,48 +1,48 @@
-# English | [简体中文](./README-CN.md)
+# [English](./README.md) | 简体中文
 
-# I. Appears when running Xcode:
+# 一、运行Xcode时出现：
 ### This operation can fail if the version of the OS on the device is incompatible with the installed version of Xcode. You may also need to restart your mac and device in order to correctly detect compatibility.
 ### This xxx is running iOS xxx, which may not be supported by this version of Xcode.
-## 1. Click to download the specified iOS system support file: https://github.com/strengthen/DeviceSupport
-## 2. Download the version you need listed in the library above, and unzip the version file into a folder.
-## 3. Open [Finder], enter the shortcut key: [Command + Shift + G], enter the folder location: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport, where [Xcode. app] is the Xcode name. If you download multiple Xcodes, enter the name of the corresponding Xcode and put the decompressed folder into the DeviceSupport folder.
-## 4. Restart Xcode.
+## 1、点击下载指定的iOS系统支持文件：https://github.com/strengthen/DeviceSupport
+## 2、下载上面库中列出的您需要的版本，解压版本文件为文件夹。
+## 3、打开【访达】，输入快捷键：【Command + Shift + G】，输入文件夹位置：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport ，其中【Xcode.app】为Xcode名称，如果下载多个Xcode，则输入对应Xcode的名称，将解压的的文件夹放入DeviceSupport文件夹。
+## 4、重新启动Xcode。
 
-# II. Xcode 15 has build problems in some Cocoa pods because the ".a" file is missing from the XcodeDefaults toolchain content. Here are all the missing files in Xcode 15.
-## You can download and paste it into this path:
+# 二、Xcode 15在某些 Cocoa pod 中存在构建问题，因为其 XcodeDefaults 工具链内容中缺少“.a”文件。以下是 Xcode 15 中所有缺失的文件。
+## 您可以下载并将其粘贴到此路径中：
 ## /Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/
-## Note: If the lib folder does not exist, please create a folder named "arc".
+## 注意：如果 lib 文件夹不存在，请创建一个名为“arc”的文件夹。
 
-# III. Welcome to download from App Store: iNFC
-<a href='https://apps.apple.com/cn/app/infc/id1562054959'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com :283/image/202207141215375.png' /></a>
+# 三、欢迎从App Store下载：iNFC
+<a href='https://apps.apple.com/cn/app/infc/id1562054959'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 > [https://apps.apple.com/cn/app/infc/id1562054959](https://apps.apple.com/cn/app/infc/id1562054959)
-## 1. iNFC official store:
+## 1、iNFC官方店铺：
 > [https://shop186988287.taobao.com/](https://shop186988287.taobao.com/)
-## 2. The strongest version of Pixl OLED lithium battery:
+## 2、 Pixl OLED锂电池最强版：
 > [https://m.tb.cn/h.53TPS9J?tk=pdx4dxmARaI](https://m.tb.cn/h.53TPS9J?tk=pdx4dxmARaI)
-## 3. Chamleon Pro Ultra/Panda Third Generation Pro Edition:
+## 3、Chamleon Pro Ultra/熊猫三代Pro版：
 > [https://m.tb.cn/h.57vShaN?tk=C7KEWclzHne](https://m.tb.cn/h.57vShaN?tk=C7KEWclzHne)
-## 4. Search iNFC in App Store, or click to jump:
+## 4、App Store搜索iNFC，或者点击跳转：
 > [https://apps.apple.com/cn/app/infc/id1562054959](https://apps.apple.com/cn/app/infc/id1562054959)
-## 5. TG channel:
+## 5、TG频道：
 > [https://t.me/iLocalizable](https://t.me/iLocalizable)
-## 6. TG customer service group:
+## 6、TG客服群：
 > [https://t.me/NFCMaster](https://t.me/NFCMaster)
-## 7. Amiibo data subscription link in mainland China:
+## 7、中国大陆区Amiibo数据订阅链接：
 > [https://gitee.com/newsagency/iNFCAmiibo/raw/master/amiibo.infc](https://gitee.com/newsagency/iNFCAmiibo/raw/master/amiibo.infc)
-## 8. Amiibo data subscription link outside mainland China:
+## 8、非中国大陆区Amiibo数据订阅链接：
 > [https://raw.githubusercontent.com/strengthen/iNFCAmiibo/main/amiibo.infc](https://raw.githubusercontent.com/strengthen/iNFCAmiibo/main/amiibo.infc)
-## 9. Download Gitee firmware in mainland China:
+## 9、大陆区Gitee固件下载：
 > [https://gitee.com/newsagency/iNFCAmiibo/tree/master/Firmware/Pixl](https://gitee.com/newsagency/iNFCAmiibo/tree/master/Firmware/Pixl)
-## 10. Github firmware download for non-mainland areas:
+## 10、非大陆区Github固件下载： 
 > [https://github.com/strengthen/iNFCAmiibo/tree/main/Firmware/Pixl](https://github.com/strengthen/iNFCAmiibo/tree/main/Firmware/Pixl)
-## 11. DFU web page upgrade:
+## 11、DFU网页升级： 
 > [https://thegecko.github.io/web-bluetooth-dfu/examples/web.html](https://thegecko.github.io/web-bluetooth-dfu/examples/web.html)
-## 12. DUF Chinese version APK:
+## 12、DUF汉化版APK： 
 > [https://pan.baidu.com/s/1B4MXwPO-lJZINmyTJKKppw?pwd=c2sa](https://pan.baidu.com/s/1B4MXwPO-lJZINmyTJKKppw?pwd=c2sa)
-## 13. Bilibili video homepage:
+## 13、哔哩哔哩视频主页：
 > [https://space.bilibili.com/9168196](https://space.bilibili.com/9168196)
-## 14. YouTube channel:
+## 14、YouTube频道：
 > [https://www.youtube.com/channel/UCXCZyO875Mr4vjDrWgHyUkA](https://www.youtube.com/channel/UCXCZyO875Mr4vjDrWgHyUkA)
-## 15. Customer service Q group: 887413967
-## 16. Customer service WeChat ID: iNFC-Developer
+## 15、客服Q群：887413967
+## 16、客服微信号：iNFC-Developer
