@@ -6,7 +6,12 @@
 ## 3、打开【访达】，输入快捷键：【Command + Shift + G】，输入文件夹位置：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport ，其中【Xcode.app】为Xcode名称，如果下载多个Xcode，则输入对应Xcode的名称，将解压的的文件夹放入DeviceSupport文件夹。
 ## 4、重新启动Xcode。
 
-# 二、欢迎从App Store下载：iNFC
+# 二、Xcode 14.3 和 14.3.1 在某些 Cocoa pod 中存在构建问题，因为其 XcodeDefaults 工具链内容中缺少“.a”文件。以下是 Xcode 14.3 中所有缺失的文件。
+## 您可以下载并将其粘贴到此路径中：
+## /Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/
+## 注意：如果 lib 文件夹不存在，请创建一个名为“arc”的文件夹。
+
+# 三、欢迎从App Store下载：iNFC
 <a href='https://apps.apple.com/cn/app/infc/id1562054959'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 > [https://apps.apple.com/cn/app/infc/id1562054959](https://apps.apple.com/cn/app/infc/id1562054959)
 ## 1、iNFC官方店铺：
