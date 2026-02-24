@@ -1,9 +1,10 @@
 # English | [简体中文](./README-CN.md)
 
 # I. Welcome to my App Store homepage to download my published apps.
-<a href='https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
+<a href='https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397'><img height='70' alt='Download from AppStore' src='https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg' /></a>
 > [https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397](https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397)
 # Follow Telegram channel for the latest information.
+<a href='https://t.me/iTelecast'><img height='70' alt='Download from AppStore' src='https://img.shields.io/badge/Telegram-iTelecast-26A5E4?style=for-the-badge&logo=telegram' /></a>
 > [https://t.me/iTelecast](https://t.me/iTelecast)
 
 # II. Appears when running Xcode:
