@@ -4,7 +4,7 @@
 <a href='https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 > [https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397](https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397)
 
-# III. Appears when running Xcode:
+# II. Appears when running Xcode:
 ### This operation can fail if the version of the OS on the device is incompatible with the installed version of Xcode. You may also need to restart your mac and device in order to correctly detect compatibility.
 ### This xxx is running iOS xxx, which may not be supported by this version of Xcode.
 ## 1. Click to download the specified iOS system support file: https://github.com/strengthen/DeviceSupport
