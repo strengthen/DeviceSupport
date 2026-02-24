@@ -3,6 +3,8 @@
 # I. Welcome to my App Store homepage to download my published apps.
 <a href='https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397'><img height='70' alt='Download from AppStore' src='https://img.whalenas.com:283/image/202207141215375.png' /></a>
 > [https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397](https://apps.apple.com/cn/developer/%E5%BC%BA-%E6%9B%BE/id1453461397)
+# Follow Telegram channel for the latest information.
+> [https://t.me/iTelecast](https://t.me/iTelecast)
 
 # II. Appears when running Xcode:
 ### This operation can fail if the version of the OS on the device is incompatible with the installed version of Xcode. You may also need to restart your mac and device in order to correctly detect compatibility.
